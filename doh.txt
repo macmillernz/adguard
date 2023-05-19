@@ -780,3 +780,4 @@
 ||doh.securedns.eu^
 ||ads-doh.securedns.eu^
 ||jp.gridns.xyz^
+||doh.dns.apple.com.v.aaplimg.com^
