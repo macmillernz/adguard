@@ -776,3 +776,7 @@
 ||zero.dns0.eu^
 ||zrh1-ns01.monzoon.net^
 ||zxcvb.pp.ua^
+||v6.rubyfish.cn^
+||doh.securedns.eu^
+||ads-doh.securedns.eu^
+||jp.gridns.xyz^
